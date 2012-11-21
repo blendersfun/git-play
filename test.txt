@@ -4,6 +4,6 @@ This is a test file.
   there is no rationale why I would be versioning this.
 I will say words.
 That is all.
-  I mean, why do I care what was added or deleted? Or even modified?
+  Why do I care what was added or deleted? Or even modified?
 Would I be collaborating on this test file? When would merge
-conflicts ever occur in such a file?
+conflicts occur in such a file?
