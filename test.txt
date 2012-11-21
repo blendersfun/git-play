@@ -13,7 +13,7 @@ Well, not quite all--Why do I care what was added or deleted? Or even modified?
   Would I be collaborating on this test file? When would merge
   conflicts ever occur in such a file?
 Aaron: How's things?
-xxDabog: Simple. Just simple.
+Dabog: Simple. Just simple.
 Aaron: Excellent, just what I was hoping you'd say.
 
-I'm starting a whole new section. Oh, you are, are you?
+I'm starting a whole new section.
