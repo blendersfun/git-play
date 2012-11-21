@@ -5,7 +5,7 @@ This is a test file. Sweet! Sweet! Awesome!
 I will speak ideas.
 That is all.
 
-...
+... (pause)
 
 
 Well, not quite all--Why do I care what was added or deleted? Or even modified?
