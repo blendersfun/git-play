@@ -5,4 +5,6 @@ This is a test file.
 I will say words.
 That is all.
   I mean, why do I care what was added or deleted? Or even modified?
-  YAAAHH!
+  (please do not yell in here.)
+  Would I be collaborating on this test file? When would merge
+  conflicts ever occur in such a file?
