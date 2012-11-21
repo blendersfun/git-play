@@ -1,4 +1,7 @@
 This is a test file.
-Some things might be here.
+    Some things might be here. On the other hand, they might not be.
+  The problem with test files in version controll is
+  there is no rationale why I would be versioning this.
 I will say words.
 That is all.
+  I mean, why do I care what was added or deleted? Or even modified?
