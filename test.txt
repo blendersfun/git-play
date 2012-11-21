@@ -1,8 +1,8 @@
 This is a test file. Sweet! Sweet! Awesome!
     Some things might be here. On the other hand, they might not be.
-  The problem with test files in version controll is
+  One of the issues involving with test files in version controll is
   there is no rationale why I would be versioning this.
-I will say words.
+I will speak ideas.
 That is all.
   Why do I care what was added or deleted? Or even modified?
   (please do not yell in here.)
