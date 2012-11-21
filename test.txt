@@ -1,4 +1,4 @@
-This is a test file.
+This is a test file. Sweet! Sweet! Awesome!
     Some things might be here. On the other hand, they might not be.
   The problem with test files in version controll is
   there is no rationale why I would be versioning this.
