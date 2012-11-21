@@ -8,3 +8,6 @@ That is all.
   (please do not yell in here.)
   Would I be collaborating on this test file? When would merge
   conflicts ever occur in such a file?
+Aaron: How's things?
+Dabog: Simple. Just simple.
+Aaron: Excellent, just what I was hoping you'd say.
