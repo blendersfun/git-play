@@ -1,0 +1,19 @@
+This is a test file. Sweet! Sweet! Awesome!
+    Some things might be here. On the other hand, they might not be.
+  One of the issues involving with test files in version controll is
+  there is no rationale why I would be versioning this.
+I will speak ideas.
+That is all.
+
+...
+
+
+Well, not quite all--Why do I care what was added or deleted? Or even modified?
+  (please do not yell in here.)
+  Would I be collaborating on this test file? When would merge
+  conflicts ever occur in such a file?
+Aaron: How's things?
+Dabog: Simple. Just simple.
+Aaron: Excellent, just what I was hoping you'd say.
+
+I'm starting a whole new section.
